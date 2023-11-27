@@ -1,0 +1,11 @@
+{
+    "currency_converter": "Currency Converter",
+    "you_send": "You send",
+    "they_get": "They get",
+    "choose_currency": "Choose a currency",
+    "cancel": "Cancel",
+    "ok": "Ok",
+    "unknown_failure_occurred": "Произошла неизвестая ошибка",
+    "base_currency_access_restricted": "По текущей подписке к api нет доступа к выбранной паре. Доступно только EUR к любой валюте",
+    "fetching_list_currencies_failed": "Загрузка списка валют не удалась"
+}
